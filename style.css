@@ -1,0 +1,56 @@
+*{margin: 0; padding: 0;}
+
+.connect-btn{width:24%; height: 60px; text-align: center; margin:30px 0 0 5% ; padding:12px 0 ; }
+
+.connect-btn a{text-decoration: none; background-color: #1450A3; color: whitesmoke; font-size: 25px;  padding:13px 26%; border-radius: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+.connect-btn :hover{background-color:whitesmoke; color:#1450A3 ;}
+
+
+.navbar .navbar-nav .nav-link {
+    color: black;
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #0E21A0;
+  color: #fff;
+}
+
+.webbnrbtn{width:100%; height: 60px; margin:40px 0 0 0 ; padding: 0;}
+
+.webbnrbtn a{text-decoration: none; background-color: #184d98 ; color: whitesmoke; padding:10px 2% ; border-radius: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+.webbnrbtn :hover{background-color:whitesmoke; color:#184d98  ;}
+
+
+.webftrbtn{width:100%; height:10px; margin:140px 0 0 0; padding:0 0 0 40%;}
+
+.webftrbtn a{text-decoration: none; background-color: #184d98 ; color: whitesmoke; padding:15px 8% ; border-radius:1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+    .webftrbtn :hover{background-color:whitesmoke; color:#184d98 ;}
+
+
+.retailbnrbtn{width:100%; height:10px; margin:140px 0 0 0; padding:0 0 0 0%;}
+
+.retailbnrbtn a{text-decoration: none; background-color:#184D98; color: whitesmoke; padding:15px 8% ; border-radius:1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+.retailbnrbtn :hover{background-color:whitesmoke; color:#184D98;}
+
+.myactive{
+    background:#184D98; 
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background:#184D98; color:white;
+}
+
+
+
+
+
+
+
+
